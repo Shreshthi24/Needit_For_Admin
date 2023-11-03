@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="def8099197d231106823f5c11153af50" label="Demo" max_length="40" name="x_1129234_need_adm_demo" type="collection">
+        <element label="ID" max_length="40" name="id" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
