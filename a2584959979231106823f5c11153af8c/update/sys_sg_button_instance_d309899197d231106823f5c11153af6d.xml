@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Demo)">df09899197d231106823f5c11153af68</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Demo)</name>
+        <order/>
+        <parent>9709899197d231106823f5c11153af59</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 07:09:23</sys_created_on>
+        <sys_id>d309899197d231106823f5c11153af6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Demo)</sys_name>
+        <sys_package display_value="NeedITAdmin" source="x_1129234_need_adm">a2584959979231106823f5c11153af8c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedITAdmin">a2584959979231106823f5c11153af8c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d309899197d231106823f5c11153af6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 07:09:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=d309899197d231106823f5c11153af6d"/>
+</record_update>
